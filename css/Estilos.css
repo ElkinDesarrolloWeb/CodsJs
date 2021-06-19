@@ -28,7 +28,7 @@
 background: orange;
 }
 h2{position:relative;  right: -30%; font-size: 30px; font-family: Verdana;color: #F08080;}
-.container{position: relative; top: 170px; width: 70%; height: auto; margin: auto;}
+.container{position: relative; top: 170px; width: 80%; height: auto; margin: auto;}
 .container img:hover{width: 250px; height: 250px;}
 .container .list-image{display: flex; flex-wrap: wrap;justify-content: center;}
 .container .list-image li{margin-right: 7px;margin-bottom: 5px; margin-bottom: 20px; list-style: none;}
@@ -57,9 +57,9 @@ video{position: relative; right: -20%; min-width: 10%;}
 img{border-radius: 30px;}
 @media screen and (min-width: 480px;){
 .container{
-	width: 480px;
+	width: 60%;
 }
 .container2{
-	width: 480px;
+	width: 60%px;
 }
 }
